@@ -1,0 +1,18 @@
+td,th, tr{
+    border: 2px solid;
+    text-align: left;
+    padding: 7px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+table,td,tr,th{
+    width: 40%;
+    border: 2px;
+    border-radius: 7px; 
+}
+td,th{background-color: bisque;}
+
+tr:hover {color:red; text-shadow: 2px 2px 5px red;-webkit-text-fill-color: red;}
+
+rt:hover {color: red; text-decoration: wavy;}
